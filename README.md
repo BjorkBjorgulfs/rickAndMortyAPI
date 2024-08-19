@@ -1,2 +1,3 @@
 # rickAndMortyAPI
-Here you can play around with the Rick And Morty API. The data is also good to practice loops
+This is a school project where I fetch data from Rick and Morty API and display
+charachters, species and number of episodes. I put the results into the html, so if you look at the live site you can see it, as well as in the console log.
